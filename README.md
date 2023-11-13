@@ -25,9 +25,23 @@ experiment 1
 &nbsp;&nbsp;1.4.3 用栈求解迷宫从入口到出口的所有路径。   
 &nbsp;&nbsp;1.4.4 用队列求解迷宫从入口到出口的最短路径。
 
-experiment 2  
+experiment 2 NOT DONE YET  
 ---
-not done yet  
+* 1 二叉树的基本操作算法实现  
+（1）利用二叉树字符串创建二叉树的二叉链式存储结构：A(B(D,E(H(J,K(L,M(,N))))),C(F,G(,I)))  
+（2）输出该二叉树  
+（3）输出‘H’节点的左、右孩子结点值  
+（4）输出该二叉树的结点个数、叶子结点个数、二叉树的度和高度  
+* 2 二叉树的各种遍历算法实现  
+&nbsp;&nbsp;实现上述二叉树的先序、中序和后序遍历的递归和非递归算法  
+* 3 线索二叉树的遍历   
+&nbsp;&nbsp;中序线索化上述二叉树并找出根结点的前驱和后继   
+* 4 构造哈夫曼树和哈夫曼编码的算法实现  
+&nbsp;&nbsp;统计下面一段英文的不同字符个数和每个字符的出现频率，利用统计数据构造构造哈夫曼树和哈夫曼编码。要求：利用构造的哈夫曼编码对下文进行压缩和解压后，与原文一样
+
+>The Chinese official said he viewed the Trump Presidency not as an aberration but as the product of a failing political system. This jibes with other accounts. The Chinese leadership believes that the United States, and Western democracies in general, haven’t risen to the challenge of a globalized economy, which necessitates big changes in production patterns, as well as major upgrades in education and public infrastructure. In Trump and Trumpism, the Chinese see an inevitable backlash to this failure.
+
+**Here, I don't know anything while have nothing to say about the paragraph above. It just the requirment of the experiment.**
 
 experiment 3  
 ---
