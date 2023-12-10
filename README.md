@@ -1,4 +1,4 @@
-GZHU grade 10 object oriented programming experiments personal backup  
+GZHU grade 11 data structure experiments personal backup  
 ====
 This repository is created for personal backup.  
 Highly NOT recommand using codes in this repo to submit homework.  
@@ -45,7 +45,15 @@ experiment 2 NOT DONE YET
 
 experiment 3  
 ---
-not done yet  
+* 1 图的邻接表和邻接矩阵存储  
+&nbsp;&nbsp;建立下图的邻接表或邻接矩阵，并输出之；  
+<img width="215" alt="image" src="https://github.com/Endermen359872/grade11DS/assets/78783001/d4852ec6-f1ff-40c4-9642-903a9163b9be"><br>
+* 2 图的各种遍历算法实现  
+&nbsp;&nbsp;以0结点为起点实现上述图的深度优先和广度优先遍历算法；  
+* 3 最小生成树的算法实现  
+&nbsp;&nbsp;利用普里姆（Prim）算法或克鲁斯卡尔(Kruskal)算法求上图的最小生成树，算法实现代码必须有注释。  
+* 4 最短路径的算法实现  
+&nbsp;&nbsp;利用狄克斯特拉（Dijkstra）算法求上图中0结点到其它结点的最短路径，算法实现代码必须有注释。  
 
 experiment 4  
 ---
