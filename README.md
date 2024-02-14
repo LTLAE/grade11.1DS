@@ -1,4 +1,4 @@
-![image](https://github.com/Endermen359872/grade11DS/assets/78783001/a8d66778-340f-4ba3-b604-c1e7ab34a1d8)GZHU grade 11 data structure experiments personal backup  
+GZHU grade 11 data structure experiments personal backup  
 ====
 This repository is created for personal backup.  
 Highly NOT recommand using codes in this repo to submit homework.  
